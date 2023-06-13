@@ -1,0 +1,6 @@
+venv_eight_puzzle/
+venv*/
+*.code-workspace
+.vscode
+**/__pycache__/
+*.egg-info/
